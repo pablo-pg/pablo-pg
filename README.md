@@ -12,7 +12,7 @@
 - 🏛️ I’m currently studying Computer Engeneering on Universidad de La Laguna  
 - 🌱 I’m currently improving my knowledge in Python and C++
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I've been playing instruments since 10 yo
+- ⚡ Fun fact: I'm vegetarian!
 
 <!--
 **pablo-pg/pablo-pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
